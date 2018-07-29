@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Steelcon 2018:  Exploiting Screen Recording And Automated Input On Android"
+date:   2018-07-08 10:00:00 +0000
+categories: jekyll update
+---
+
+Is it possible for an android application to surreptitiously record a user’s screen and/or automate user input? If so, how do attackers exploit it and how do application developers defend against such attacks?
+
+I delivered a talk at [Steelcon 2018][youtube] which explores the functionality exposed by the Android Open Source Project (AOSP) framework that could be exploited to achieve screen recording or automated input on a stock, non-rooted android device. The talk also discusses the defences placed by AOSP developers to prevent the abuse of this functionality. Finally a couple of vulnerabilities I’ve identified in the AOSP framework are discussed and demonstrated that circumvent these defences and allow an android application to record the user’s screen and/or automated input.
+
+[youtube]:https://www.youtube.com/watch?v=Ke7ZYxvqLGE
