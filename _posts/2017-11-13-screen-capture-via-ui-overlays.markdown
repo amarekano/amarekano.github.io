@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Screen Capture via UI Overlays"
+title:  "CVE-2018-9524 - Screen Capture via UI Overlays"
 date:   2017-11-13 07:26:16 +0000
 categories: jekyll update
 ---

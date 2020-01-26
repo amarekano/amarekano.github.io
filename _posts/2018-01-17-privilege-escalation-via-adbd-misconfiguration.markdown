@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Privilege Escalation via adbd Misconfiguration"
+title:  "CVE-2017-13212 - Privilege Escalation via adbd Misconfiguration"
 date:   2018-01-17 07:26:16 +0000
 categories: jekyll update
 ---
