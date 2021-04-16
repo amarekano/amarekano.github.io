@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I am a mobile security researcher. I focus on iOS and Android application and platform security. I've created this blog to talk about my research.
+This blog serves as an archive of the security research that I've done in the past and projects that I'm currently working on. My focus has mostly been on mobile platforms (Android/iOS) and more recently on browser internals and exploitation.
