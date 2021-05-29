@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "WebKit JavaScriptCore Internals"
-date:   2021-03-10 19:00:00 +0000
+date:   2021-05-26 19:00:00 +0000
 categories: jekyll update
 ---
 
@@ -13,4 +13,10 @@ The series covers the four execution tiers in the engine and walks through the p
 
 [Part II: The LLInt and Baseline JIT](https://zon8.re/posts/jsc-internals-part2-the-llint-and-baseline-jit/)
 
-Parts III to VII are work in progress and cover the DFG and FTL JIT engines. Once published on zon8, this post will be updated.
+[Part III: The DFG (Data Flow Graph) JIT – Graph Building](https://zon8.re/posts/jsc-part3-the-dfg-jit-graph-building/)
+
+[Part IV: The DFG (Data Flow Graph) JIT – Graph Optimisation](https://zon8.re/posts/jsc-part4-the-dfg-jit-graph-optimisation/)
+
+[Part V: The DFG (Data Flow Graph) JIT – On Stack Replacement](https://zon8.re/posts/jsc-part5-the-dfg-jit-osr/)
+
+Parts to VI and VII are work in progress and cover the FTL JIT engine. Once published on zon8, this post will be updated.
