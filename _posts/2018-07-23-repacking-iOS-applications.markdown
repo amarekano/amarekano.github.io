@@ -7,4 +7,4 @@ categories: jekyll update
 
 I've published a guide on repacking and resigning iOS applications to aid security researchers. This guide is hosted at [MWR Labs][mwr-labs]
 
-[mwr-labs]:https://labs.mwrinfosecurity.com/blog/repacking-and-resigning-ios-applications/
+[mwr-labs]:https://labs.withsecure.com/publications/repacking-and-resigning-ios-applications

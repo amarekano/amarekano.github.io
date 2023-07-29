@@ -9,6 +9,6 @@ I've published my advisory on a vulnerability in Android's MediaProjection servi
 
 This vulnerability currently affects Android 5.0 to 7.1.2. Android users are advised to upgrade to Android 8.0 which patches this vulnerability.
 
-The advisory is hosted at [MWR Labs][mwr-labs]
+The advisory is hosted at [MWR Labs](https://labs.withsecure.com/advisories/screencapture-via-ui-overlays-in-mediaprojection)
 
-[mwr-labs]:https://labs.mwrinfosecurity.com/assets/BlogFiles/mwri-android-MediaProjection-tapjacking-advisory-2017-11-14.pdf
+Archived copy: [mwri-android-MediaProjection-tapjacking-advisory-2017-11-14.pdf](/assets/docs/mwri-android-MediaProjection-tapjacking-advisory-2017-11-14.pdf)

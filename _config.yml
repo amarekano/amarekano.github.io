@@ -1,7 +1,7 @@
-title: blog de amarekano
+title: Amar Menezes
 
 description: >- # this means to ignore newlines until "baseurl:"
-  My ramblings on iOS and Android vulnerability research.
+  Archive of some of my security research.
 baseurl: "" 
 url: "https://amarekano.github.io"
 twitter_username: amarekano

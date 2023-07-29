@@ -9,6 +9,6 @@ I've released an advisory which details and demonstrates a vulnerability that ex
 
 This vulnerability currently affects Android 4.2.2 to 8.0. The patch for which was included in the January 5, 2018 Android Security Bulletin. Android users are advised to update their devices to this patch level.
 
-The advisory is hosted at [MWR Labs][mwr-labs]
+The advisory is hosted at [MWR Labs](https://labs.withsecure.com/advisories/privilege-escalation-via-adbd-misconfiguration)
 
-[mwr-labs]:https://labs.mwrinfosecurity.com/advisories/privilege-escalation-via-adbd-misconfiguration/
+Archived copy: [mwri-android-adbd-privilege-escalation-advisory-2018-01-17.pdf](/assets/docs/mwri-android-adbd-privilege-escalation-advisory-2018-01-17.pdf)
